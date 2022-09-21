@@ -1,0 +1,205 @@
+body {
+  background-color: grey;
+}
+
+h2 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 22px;
+  text-shadow: 1px 1px rgba(123, 6, 65, 0.704);
+  text-align: center;
+  margin: auto;
+  line-height: 1.5em;
+}
+
+.container {
+  width: 490px;
+  height: 170px;
+  background-color: white;
+  color: rgba(123, 6, 65, 0.704);
+  display: flex;
+  justify-content: center;
+  border: 5px solid red;
+  box-sizing: border-box;
+  margin-left: 515px;
+  border-radius: 10px;
+  box-shadow: 10px 10px navy;
+}
+
+.main {
+  border: 8px solid green;
+  height: 520px;
+}
+
+.container2 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  color: rgba(123, 6, 65, 0.704);
+  display: flex;
+  justify-content: center;
+  border: 5px solid red;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 7px 7px rgb(91, 19, 136);
+}
+
+.neh2 {
+  text-shadow: 1px 0px 1px rgba(1, 3, 12, 0.866), 0 0 5px rgb(44, 7, 73);
+}
+
+.container3 {
+  width: 200px;
+  height: 200px;
+  border: 7px solid red;
+  float: right;
+  margin-top: -199px;
+  margin-right: 50px;
+  background-color: white;
+  background-image: url(./delfood.webp);
+  background-size: 185px 100px;
+  background-repeat: no-repeat;
+  background-position: 8px 50px;
+  border-radius: 10px;
+  box-shadow: 8px 8px rgb(91, 19, 136);
+}
+
+.box5 {
+  width: 450px;
+  height: 70px;
+  background-color: greenyellow;
+  color: brown;
+  font-weight: bold;
+  font-size: 18px;
+  font-style: italic;
+  border: 6px solid red;
+  border-radius: 15px;
+  box-shadow: 6px 6px rgb(91, 19, 136);
+  position: sticky;
+  left: 550px;
+  top: 20px;
+  bottom: 150px;
+  right: 200px;
+}
+
+.p21 {
+  margin-left: 280px;
+  margin-top: -65px;
+  position: absolute;
+  left: 20px;
+}
+
+.p20 {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.newmon {
+  margin-top: -20px;
+  margin-left: 70px;
+}
+
+.new10 {
+  float: right;
+  margin-top: -45px;
+  margin-right: 60px;
+}
+.container4 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  color: rgba(123, 6, 65, 0.704);
+  display: flex;
+  justify-content: center;
+  border: 5px solid red;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 7px 7px rgb(91, 19, 136);
+  margin-top: 60px;
+}
+
+.neh6 {
+  text-shadow: 1px 0px 1px rgba(1, 3, 12, 0.866), 0 0 5px rgb(44, 7, 73);
+  font-size: 20px;
+}
+
+.container5 {
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-top: -190px;
+  margin-right: 50px;
+  background-color: white;
+  color: rgba(123, 6, 65, 0.704);
+  display: flex;
+  justify-content: center;
+  border: 5px solid red;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 7px 7px rgb(91, 19, 136);
+}
+
+button {
+  background-color: red;
+}
+
+label {
+  text-shadow: 1px 0px 1px rgba(1, 3, 12, 0.866), 0 0 5px rgb(44, 7, 73);
+  font-size: 10px;
+  text-align: center;
+}
+
+.boxmain {
+  height: 700px;
+  width: 600px;
+  background-color: green;
+  border: 10px solid purple;
+  margin-top: 20px;
+}
+.grid {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.grid-item {
+  height: 300px;
+  width: 290px;
+  background-color: yellow;
+}
+.grid-item2 {
+  height: 290px;
+  width: 600px;
+  background-color: yellow;
+}
+
+.frmh2 {
+  font-style: normal;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+label {
+  margin-left: 58px;
+}
+form {
+  margin-left: 10px;
+}
+
+.button {
+  color: black;
+  background-color: red;
+  border-radius: 10px;
+  margin-left: 33px;
+}
+
+.ffg33 {
+  margin-top: 20px;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+i {
+  font-size: 15px;
+}
